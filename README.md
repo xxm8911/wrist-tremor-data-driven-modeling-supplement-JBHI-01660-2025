@@ -1,9 +1,12 @@
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FJBHI.2025.3622539-blue)](https://doi.org/10.1109/JBHI.2025.3622539)
+
+
 # wrist-tremor-data-driven-modeling-supplement-JBHI-01660-2025
 Supplementary materials for the paper “Ultrasound-Enhanced Data-Driven Modeling for Characterizing Natural Wrist Tremor Dynamics” (DOI: 10.1109/JBHI.2025.3622539; Manuscript No. JBHI-01660-2025" accepted by Journal of Biomedical and Health Informatics (JBHI).
 # Supplementary Materials for  
 **“Ultrasound-Enhanced Data-Driven Modeling for Characterizing Natural Wrist Tremor Dynamics”**  
 Xiangming Xue, Vidisha Ganesh, Ashwin Iyer, Daniel Roque, Xiaoning Jiang, and Nitin Sharma  
-*(Accepted in IEEE Journal of Biomedical and Health Informatics, JBHI)*
+**Published in IEEE Journal of Biomedical and Health Informatics (JBHI), DOI: [10.1109/JBHI.2025.3622539](https://doi.org/10.1109/JBHI.2025.3622539)**
 
 ---
 
