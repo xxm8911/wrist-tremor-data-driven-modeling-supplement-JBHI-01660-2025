@@ -53,3 +53,13 @@ The PDF includes:
   - Physiological interpretation of eigenvalue-based tremor characteristics
 
 ---
+
+## How to Cite
+
+If you use these supplementary materials in your research, please cite the following article:
+
+Xue X, Ganesh V, Iyer A, Roque D, Jiang X, Sharma N.  
+**Ultrasound-Enhanced Data-Driven Modeling for Characterizing Natural Wrist Tremor Dynamics.**  
+*IEEE Journal of Biomedical and Health Informatics.* 2025 Oct 20.  
+DOI: https://doi.org/10.1109/JBHI.2025.3622539
+
